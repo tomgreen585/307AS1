@@ -1,4 +1,4 @@
-# COMP307 Assignment One
+# COMP307 Assignment One - KNN and Decision Trees
 
 - Part 1 - Program (25/25)
 - Part 1 - Report (15/15)
